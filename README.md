@@ -1,6 +1,6 @@
 # Vanilla JavaScript Background Generator
 
-Backgriund Generator application built in pure JavaScript, HTML, and CSS 
+Background Generator application built in pure JavaScript, HTML, and CSS 
 
 Try it [here!](https://wolyslager.github.io/background-generator/)
 
